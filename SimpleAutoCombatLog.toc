@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: |cff00ccffSimpleAutoCombatLog|r
+## Author: |cff00ccffKessedy|r
+## Version: 1.0
+## Notes: Automatically starts /combatlog for raids
+
+Localization.lua
+Config.lua
+SimpleAutoCombatLog.lua
