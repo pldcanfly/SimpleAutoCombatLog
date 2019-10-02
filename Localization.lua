@@ -12,7 +12,7 @@ setmetatable(SimpleAutoCombatLog.L, {__index=defaultFunc});
 
 if GetLocale() == "deDE" then
   -- Zones
- SimpleAutoCombatLog.L["The Molten Core"] = "Der Geschmolzene Kern";
+ SimpleAutoCombatLog.L["Molten Core"] = "Der Geschmolzene Kern";
  SimpleAutoCombatLog.L["Onyxia's Lair"] = "Onyxias Hort";
  SimpleAutoCombatLog.L["Blackwing Lair"] = "Pechschwingenhort";
  SimpleAutoCombatLog.L["Ruins of Ahn'Qiraj"] = "Ruinen von Ahn'Qiraj";
@@ -41,7 +41,7 @@ if GetLocale() == "deDE" then
 
 elseif GetLocale() == "ruRU" then -- Translation by Horgul-Gordunni
   -- Zones
- SimpleAutoCombatLog.L["The Molten Core"] = "Огненные Недра";
+ SimpleAutoCombatLog.L["Molten Core"] = "Огненные Недра";
  SimpleAutoCombatLog.L["Onyxia's Lair"] = "Логово Ониксии";
  SimpleAutoCombatLog.L["Blackwing Lair"] = "Логово Крыла Тьмы";
  SimpleAutoCombatLog.L["Ruins of Ahn'Qiraj"] = "Руины Ан'Киража";

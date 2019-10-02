@@ -4,7 +4,7 @@ L = SimpleAutoCombatLog.L;
 
 SimpleAutoCombatLog.Zones = {
   ["ZoneOnly"] = { -- Only Zone must be entered
-    L["The Molten Core"],
+    L["Molten Core"],
     L["Blackwing Lair"],
     L["Onyxia's Lair"],
     L["Ruins of Ahn'Qiraj"],
