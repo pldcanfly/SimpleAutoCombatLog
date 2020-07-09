@@ -25,7 +25,7 @@ SimpleAutoCombatLog.Zones = {
       L["Emeriss"],
       L["Lethon"],
       L["Ysondre"],
-      L["Taerar "],
+      L["Taerar"],
       L["Doomlord Kazzak"],
       L["Azuregos"],
     }
