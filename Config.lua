@@ -11,6 +11,15 @@ SimpleAutoCombatLog.Zones = {
     L["Ahn'Qiraj"],
     L["Zul'Gurub"],
     L["Naxxramas"],
+    L["Karazhan"],
+    L["Gruul's Lair"],
+    L["Magtheridon's Lair"],
+    L["Sunwell Plateau"],
+    L["Black Temple"],
+    L["Tempest Keep"],
+    L["Serpentshrine Cavern"],
+    L["Zul'Aman"],
+    L["Hyjal Summit"]
   },
   ["ZoneAndMob"] = { -- A Zone must be entered and a Mob must be targeted
     ["Zones"] = {
@@ -20,6 +29,8 @@ SimpleAutoCombatLog.Zones = {
       L["Ashenvale"],
       L["Blasted Lands"],
       L["Azshara"],
+      L["Hellfire Peninsula"],
+      L["Shadowmoon Valley"]
     },
     ["Mobs"] = {
       L["Emeriss"],
@@ -28,6 +39,8 @@ SimpleAutoCombatLog.Zones = {
       L["Taerar"],
       L["Doomlord Kazzak"],
       L["Azuregos"],
+      L["Doom Lord Kazzak"],
+      L["Doomwalker"]
     }
   }
 

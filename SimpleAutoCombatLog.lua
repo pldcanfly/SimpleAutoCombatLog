@@ -21,7 +21,7 @@ function SimpleAutoCombatLog:OnZoneChanged(...)
 
   if self:IsInList( self.Zones.ZoneOnly, zone ) then -- No Mob needs to be tagged
     self:StartLog();
-  elseif self:IsInList( self.Zones.ZoneAndMob.Zones, zone ) then -- No Mobs need to be tagged
+  elseif self:IsInList( self.Zones.ZoneAndMob.Zones, zone ) then -- Mobs need to be tagged
     LookForMob = true;
   else
     self:StopLog();
