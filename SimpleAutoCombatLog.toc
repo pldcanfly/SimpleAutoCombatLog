@@ -1,7 +1,7 @@
-## Interface: 20501
+## Interface: 11307
 ## Title: |cff00ccffSimpleAutoCombatLog|r
 ## Author: |cff00ccffp1dcanfly|r
-## Version: 1.4-bcc
+## Version: 1.5-era
 ## Notes: Automatically starts /combatlog for raids
 
 Localization.lua
